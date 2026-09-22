@@ -5,8 +5,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/QA%20Automation-Expertise-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javasript-3776AB?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javasript-3776AB?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-0A9EDC?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0A9EDC?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
