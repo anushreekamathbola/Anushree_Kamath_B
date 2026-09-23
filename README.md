@@ -19,7 +19,7 @@ I'm a **QA Automation Engineer** passionate about building reliable, scalable, a
 I enjoy transforming manual testing processes into efficient automated workflows and working across **UI, API, database, and end-to-end testing**.
 
 * 🔭 Currently working on **Test Automation Frameworks & QA Automation**
-* 🌱 Currently learning **Advanced Playwright Javascript Automation , Performance Testing & CI/CD**
+* 🌱 Currently learning **Advanced Playwright Javascript Automation**
 * 🧪 Interested in **SDET practices, test architecture, automation strategy & quality engineering**
 * 💡 Focused on building **Stable and maintainable automation frameworks**
 * 🚀 Interested in **AI-assisted testing and modern QA practices**
