@@ -93,7 +93,7 @@ Performance Testing    ███████████
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="(https://www.linkedin.com/in/anushree-kamath-4493a31a5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqOyter3vTb%2B8%2FpNHLBnTNQ%3D%3D)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
